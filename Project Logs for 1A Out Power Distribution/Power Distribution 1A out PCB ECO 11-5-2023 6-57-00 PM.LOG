@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=270VDC Pin=L1-1
+Removed Pin From Net: NetName=NetD2_2 Pin=L1-2
+Removed Pin From Net: NetName=HVGND Pin=L1-3
+Removed Pin From Net: NetName=GND Pin=L1-6
+Change Component Footprint: Designator=C11 Old Footprint=FP-GCM155-0_05-IPC_A New Footprint=FP-GCM155-0_05-IPC_A
+Change Component Footprint: Designator=C9 Old Footprint=FP-GJM155-0_05-IPC_B New Footprint=FP-GJM155-0_05-IPC_A
+Change Managed Component Library Link : Designator=L1 Old VaultGUID=2985F08E-9064-410C-B83A-4E108DE1F486 New VaultGUID=2985F08E-9064-410C-B83A-4E108DE1F486 Old ItemGUID=8b1d85a9-4702-4333-af2b-b3811b68e9a2 New ItemGUID=8b1d85a9-4702-4333-af2b-b3811b68e9a2 Old RevisionGUID=a82e064c-ca50-4ca6-8b96-654e7d965dd4 New RevisionGUID=a2abd22f-c91f-4843-b299-b110577af98e
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=2985F08E-9064-410C-B83A-4E108DE1F486 Old ItemGUID=56560740-74FC-4D42-9291-B14FA58029B8 New ItemGUID=c0dae042-6060-4b50-b5ff-4abdfe807c47 Old RevisionGUID=6A9DDA62-E8AA-4B58-B05D-6369646BE676 New RevisionGUID=d7d0c247-b7e5-4e8e-89ef-d7e7b10b5a63
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=2985F08E-9064-410C-B83A-4E108DE1F486 Old ItemGUID=FF6B26A8-3516-4BF4-AA9E-8401A568709D New ItemGUID=474479e4-ae00-40b0-8ce8-fb86756aedbd Old RevisionGUID=20AEC748-4D8E-41B4-A963-352E2B667333 New RevisionGUID=9c267000-75a8-46ce-b673-0b1c9136d806
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=NetD3_2 Pin=L1-3
+Added Pin To Net: NetName=NetD3_2 Pin=L1-4
+Added Pin To Net: NetName=270VDC Pin=L1-6
+Added Pin To Net: NetName=HVGND Pin=L1-7
+Added Pin To Net: NetName=GND Pin=L1-8
+Added Pin To Net: NetName=GND Pin=L1-9
+Added Pin To Net: NetName=GND Pin=L1-10
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R3-2
+Added Net: Name=NetL1_2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EGND Pin=J2-1
+Removed Pin From Net: NetName=270VDC Pin=J2-2
+Added Pin To Net: NetName=270VDC Pin=J2-1
+Added Pin To Net: NetName=EGND Pin=J2-2
